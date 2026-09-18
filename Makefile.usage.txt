@@ -6,4 +6,7 @@ lib: `exemplar_cxx_library` C++17 Static Library Example
 ----------------------------------------------------------------
 Commands
         usage   : make [command]
+        cmake   : configure project into build directory
+        ninja   : generate project into build directory
+        clean   : remove fully recursively build directory
 ================================================================

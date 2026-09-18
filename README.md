@@ -1,5 +1,5 @@
-# `TEMPLATE`
-> Project Legend
+# `EXEMPLAR_CXX_LIBRARY`
+> C++17 Static Library Example
 
 Project Overview
 
